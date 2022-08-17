@@ -3,7 +3,7 @@ package com.hillel.kucherenko.homework17;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class ArrayUtilsTests {
+public class ArrayUtilsTest {
     static int[][] myArray = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
 
     @Test
